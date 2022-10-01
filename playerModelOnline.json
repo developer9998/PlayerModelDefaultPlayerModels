@@ -1,11 +1,75 @@
 [
   {
+    "name": "Amongus",
+    "author": "Oddman",
+    "file_name": "Amongus",
+    "download_url": "https://github.com/developer9998/PlayerModelDefaultPlayerModels/raw/main/Models/Amogus.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "Babbling Baboon",
+    "author": "Geobyte",
+    "file_name": "Babbling Baboon",
+    "download_url": "https://github.com/developer9998/PlayerModelDefaultPlayerModels/raw/main/Models/Babbling%20Baboon.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "Beautiful boy",
+    "author": "Antoca",
+    "file_name": "Beautifulboy",
+    "download_url": "https://github.com/developer9998/PlayerModelDefaultPlayerModels/raw/main/Models/Beautifulboy.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "character stump",
+    "author": "LemmingVR",
+    "file_name": "character stump",
+    "download_url": "https://github.com/developer9998/PlayerModelDefaultPlayerModels/raw/main/Models/character%20stump.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "Lar Gibbon",
+    "author": "Turbo Alligator",
+    "file_name": "Lar Gibbon",
+    "download_url": "https://github.com/developer9998/PlayerModelDefaultPlayerModels/raw/main/Models/Lar%20Gibbon.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "Siamang Gibbon",
+    "author": "Turbo Alligator",
+    "file_name": "Siamang Gibbon",
+    "download_url": "https://github.com/developer9998/PlayerModelDefaultPlayerModels/raw/main/Models/Siamang%20Gibbon.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "The Ape",
+    "author": "Oddman",
+    "file_name": "The Ape",
+    "download_url": "https://github.com/developer9998/PlayerModelDefaultPlayerModels/raw/main/Models/The%20Ape.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "The Chimp",
+    "author": "TroutVR",
+    "file_name": "The Chimp",
+    "download_url": "https://github.com/developer9998/PlayerModelDefaultPlayerModels/raw/main/Models/The%20Chimp.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
     "name": "Toon Gorilla",
     "author": "staircase",
     "file_name": "Toon Gorilla",
     "download_url": "https://github.com/developer9998/PlayerModelDefaultPlayerModels/raw/main/Models/Toon%20Gorilla.gtmodel",
     "detail_colour": true,
-    "detail_gamemode" : true
+    "detail_gamemode": true
   },
   {
     "name": "Turtleneck Gorilla",
