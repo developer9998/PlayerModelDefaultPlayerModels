@@ -5,7 +5,7 @@
     "file_name": "Toon Gorilla",
     "download_url": "https://github.com/developer9998/PlayerModelDefaultPlayerModels/raw/main/Models/Toon%20Gorilla.gtmodel",
     "detail_colour": true,
-    "detail_gamemode" :  true
+    "detail_gamemode" : true
   },
   {
     "name": "Turtleneck Gorilla",
@@ -30,5 +30,29 @@
     "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/986725500716212415/SlimeBot.gtmodel",
     "detail_colour": true,
     "detail_gamemode": true
+  },
+  {
+    "name": "Banana Arms",
+    "author": "staircase",
+    "file_name": "Banana Arms V2",
+    "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/986685734138302514/Banana_Arms_V2.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "little scrimblo",
+    "author": "staircase",
+    "file_name": "little scrimblo V2",
+    "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/986686009280430150/little_scrimblo_V2.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "Roblox Gorilla",
+    "author": "staircase",
+    "file_name": "Roblox Gorilla",
+    "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/984766595450675220/Roblox_Gorilla.gtmodel",
+    "detail_colour": false,
+    "detail_gamemode": false
   }
 ]
