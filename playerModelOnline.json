@@ -142,5 +142,37 @@
     "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/986673038114312232/Paul_V2.gtmodel",
     "detail_colour": true,
     "detail_gamemode": true
+  },
+  {
+    "name": "Overworked Gorilla",
+    "author": "staircase",
+    "file_name": "Overworked Gorilla",
+    "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/1013167032235200612/Overworked_Gorilla.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "Minecraft Gorilla",
+    "author": "staircase",
+    "file_name": "Minecraft Gorilla",
+    "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/1012423876006924318/Minecraft_Gorilla.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "Noob",
+    "author": "Oddman",
+    "file_name": "Noob",
+    "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/983166869676621905/Noob.gtmodel",
+    "detail_colour": false,
+    "detail_gamemode": false
+  },
+  {
+    "name": "Proboscis Monkey",
+    "author": "Kishark",
+    "file_name": "Proboscis Monke",
+    "download_url": "https://github.com/developer9998/PlayerModelDefaultPlayerModels/raw/main/Models/Proboscis%20Monke.gtmodel",
+    "detail_colour": false,
+    "detail_gamemode": false
   }
 ]
