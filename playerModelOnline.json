@@ -118,5 +118,29 @@
     "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/984766595450675220/Roblox_Gorilla.gtmodel",
     "detail_colour": false,
     "detail_gamemode": false
+  },
+  {
+    "name": "Starved Gorilla",
+    "author": "staircase",
+    "file_name": "Starved Gorilla",
+    "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/1008264607745445968/Starved_Gorilla.gtmodel",
+    "detail_colour": false,
+    "detail_gamemode": false
+  },
+  {
+    "name": "Minecraft Steve",
+    "author": "Oddman",
+    "file_name": "Minecraft Steve",
+    "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/984266034326425641/Steve.gtmodel",
+    "detail_colour": false,
+    "detail_gamemode": false
+  },
+  {
+    "name": "Paul",
+    "author": "staircase",
+    "file_name": "Paul V2",
+    "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/986673038114312232/Paul_V2.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
   }
 ]
