@@ -182,5 +182,45 @@
     "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/1024400107308851211/Geobyte_Shirt.gtmodel",
     "detail_colour": true,
     "detail_gamemode": true
+  },
+  {
+    "name": "Amongus But Better",
+    "author": "Oddman",
+    "file_name": "Amongus But Better",
+    "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/991128301194199120/Amongus_But_Better.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "Cyborg Gorilla",
+    "author": "staircase",
+    "file_name": "Cyborg Gorilla",
+    "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/989850994538086410/Cyborg_Gorilla.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "Paper Gorilla",
+    "author": "staircase",
+    "file_name": "Paper Gorilla",
+    "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/987445242418569326/Paper_Gorilla.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "Chonky Gorilla",
+    "author": "staircase",
+    "file_name": "Chonky Gorilla",
+    "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/987362796863897610/Chonky_Gorilla.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
+  },
+  {
+    "name": "Gorilla Doll",
+    "author": "staircase",
+    "file_name": "Gorilla Doll",
+    "download_url": "https://cdn.discordapp.com/attachments/979140632440365166/987356981989875752/Gorilla_Doll.gtmodel",
+    "detail_colour": true,
+    "detail_gamemode": true
   }
 ]
